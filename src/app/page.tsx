@@ -65,10 +65,10 @@ export default function HomePage() {
       <section className="bg-navy text-white py-24 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight mb-6">
-            Stop Chasing Work.<br className="hidden sm:block" /> Start Winning Contracts.
+            Built for Detroit's<br className="hidden sm:block" /> Best Contractors.
           </h1>
           <p className="text-gold text-lg sm:text-xl font-semibold mb-10 max-w-2xl mx-auto">
-            The Detroit marketplace that connects verified tradespeople with homeowners and businesses who need real work done — fast.
+            Starting in Detroit and the surrounding metro area — connecting verified tradespeople with homeowners and businesses who need real work done right.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
